@@ -1,2 +1,2 @@
 # DL_PyTorch
-How to use basic PyTorch library
+This series is part of Deep Reinforcement Learning in Udacity program
